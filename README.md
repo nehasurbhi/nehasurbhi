@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Surbhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fd-coder111&psig=AOvVaw10lrO5PWevoQ-S3lYBFoqS&ust=1722640481048000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjE3P311IcDFQAAAAAdAAAAABAI" alt="Coding" width="400" height="500"> 
+ <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fd-coder111&psig=AOvVaw10lrO5PWevoQ-S3lYBFoqS&ust=1722640481048000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjE3P311IcDFQAAAAAdAAAAABAI" alt="Coding" width="400" height="500"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasurbhi&label=Profile%20views&color=0e75b6&style=flat" alt="nehasurbhi" /> </p>
 
