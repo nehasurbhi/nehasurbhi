@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Surbhi</h1>
 <h3 align="center">A passionate UI/UX and frontend developer from India</h3>
- <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Feat-sleep-repeat-gifs&psig=AOvVaw2I4RKf2qoRnoiBKCSa3MyO&ust=1729022044023000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDi4aPTjokDFQAAAAAdAAAAABAE" alt="Coding" width="400" height="300"> 
+ <img align="right" src="https://images.app.goo.gl/fzN48XwbdQrJ3Sca6" alt="Coding" width="400" height="300"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasurbhi&label=Profile%20views&color=0e75b6&style=flat" alt="nehasurbhi" /> </p>
 
